@@ -15,12 +15,12 @@ output:
 ---
 
 ## About Me
-I am a third year Cognitive Science Ph.D. student at Stony Brook University. I study memory as a function of aging and investigate compensatory strategies that may help offset age-related changes in cognitive performance. As part of my training, I am working to develop and refine my skills in data science and quantitative methods. 
+My name is Katie Burnett. I am a fourth year Cognitive Science Ph.D. Candidate at Stony Brook University working with Dr. Lauren Richmond in the Cognitive Aging and Memory Lab. Broadly, my research interests include cognitive aging and everyday memory. More specifically, I am interested in how people remember in real world contexts and strategies that people, especially older adults, can use to overcome everyday memory challenges. Some of my current research investigates how cognitive offloading, the use external memory aids to reduce cognitive demand, impacts older adult performance on memory-based tasks. 
 
 ## Education 
 **Stony Brook University , Stony Brook, NY**
 
-Ph.d. in Cognitive Science | Anticipated 2021 <br>
+Ph.D. in Cognitive Science | Anticipated 2021 <br>
 M.A. in Psychology | Summer 2021
 
 **University of Mary Washington , Fredericsburg, VA**

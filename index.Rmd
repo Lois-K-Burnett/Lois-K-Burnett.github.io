@@ -1,5 +1,5 @@
 ---
-title: "Lois K. Burnett"
+title: "Lois K. Burnett, M.A."
 image: "Burnett_photo.jpg"
 links:
   - label: LinkedIn
@@ -15,13 +15,14 @@ output:
 ---
 
 ## About Me
-I am a second year Cognitive Science Ph.D. student at Stony Brook University. I study memory as a function of aging and investigate compensatory strategies that may help offset age-related changes in cognitive performance. As part of my training, I am working to develop and refine my skills in data science and quantitative methods. In my free time, I like to explore new places (not during pandemics though!) and try out new recipes. 
+I am a third year Cognitive Science Ph.D. student at Stony Brook University. I study memory as a function of aging and investigate compensatory strategies that may help offset age-related changes in cognitive performance. As part of my training, I am working to develop and refine my skills in data science and quantitative methods. 
 
 ## Education 
-**Stony Brook University | Stony Brook, NY**
+**Stony Brook University , Stony Brook, NY**
 
-Ph.d. in Cognitive Science | August 2019 - Present 
+Ph.d. in Cognitive Science | Anticipated 2021 <br>
+M.A. in Psychology | Summer 2021
 
-**University of Mary Washington | Fredericksburg, VA**
+**University of Mary Washington , Fredericsburg, VA**
 
-B.S. in Psychology | August 2016 - May 2019 
+B.S. in Psychology | Spring 2019

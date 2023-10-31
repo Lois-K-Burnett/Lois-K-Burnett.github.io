@@ -8,7 +8,7 @@ links:
     url: "https://twitter.com/Lois_K_Burnett"
   - label: Email
     url: "mailto:lois.burnett@stonybrook.edu"
-output:
+output: 
   postcards::trestles
 ---
 

@@ -6,8 +6,6 @@ links:
     url: "https://www.linkedin.com/in/lois-burnett-65abb220a/"
   - label: Twitter
     url: "https://twitter.com/Lois_K_Burnett"
-  - label: GitHub
-    url: "https://github.com/Lois-K-Burnett"
   - label: Email
     url: "mailto:lois.burnett@stonybrook.edu"
 output:

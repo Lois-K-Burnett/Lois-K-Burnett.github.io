@@ -15,7 +15,7 @@ output:
 ---
 
 ## About Me
-My name is Katie Burnett. I am a fourth year Cognitive Science Ph.D. Candidate at Stony Brook University working with Dr. Lauren Richmond in the Cognitive Aging and Memory Lab. Broadly, my research interests include cognitive aging and everyday memory. More specifically, I am interested in how people remember in real world contexts and strategies that people, especially older adults, can use to overcome everyday memory challenges. Some of my current research investigates how cognitive offloading, the use external memory aids to reduce cognitive demand, impacts older adult performance on memory-based tasks. 
+My name is Katie Burnett. I am a Cognitive Science Ph.D. Candidate in my final year at at Stony Brook University. I work with Dr. Lauren Richmond in the Cognitive Aging and Memory Lab. Broadly, my research interests include cognitive aging and everyday memory. More specifically, I am interested in how people remember in real world contexts and strategies that people, especially older adults, can use to overcome everyday memory challenges. Some of my current research investigates how cognitive offloading, the use external memory aids to reduce cognitive demand, impacts older adults' performance on memory-based tasks. 
 
 ## Education 
 **Stony Brook University , Stony Brook, NY**
